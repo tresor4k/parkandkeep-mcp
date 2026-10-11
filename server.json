@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.tresor4k/parkandkeep-mcp",
+  "title": "Park & Keep airport parking",
+  "description": "European airport car parks: services, distance, airport price ranges for 3, 7 and 14-day stays.",
+  "repository": {
+    "url": "https://github.com/tresor4k/parkandkeep-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "websiteUrl": "https://parkandkeep.com/en/data/airport-parking-index",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://parkandkeep-mcp.vercel.app/mcp"
+    }
+  ]
+}
