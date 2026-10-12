@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:24:35.303Z",
+  "generated_at": "2026-10-12T16:57:17.894Z",
   "license": "CC BY 4.0",
   "attribution": "Park & Keep — parkandkeep.com",
   "method_url": "https://parkandkeep.com/en/airport-parking/how-we-rank",
@@ -16,25 +16,25 @@
       "share_covered": 0.63,
       "distance_km_median": 2.1,
       "distance_km_min": 0.7,
-      "prices_collected": 5,
+      "prices_collected": 6,
       "prices": {
         "d3": {
           "min": 31,
-          "median": 37,
+          "median": 36.5,
           "max": 59,
-          "n": 5
+          "n": 6
         },
         "d7": {
           "min": 40.5,
-          "median": 63,
+          "median": 64.5,
           "max": 89,
-          "n": 5
+          "n": 6
         },
         "d14": {
           "min": 65,
-          "median": 69.2,
-          "max": 120,
-          "n": 4
+          "median": 72,
+          "max": 132.5,
+          "n": 5
         }
       }
     },
@@ -71,19 +71,19 @@
       "prices": {
         "d3": {
           "min": 42.95,
-          "median": 57.43,
+          "median": 54.48,
           "max": 112.49,
           "n": 6
         },
         "d7": {
           "min": 51.99,
-          "median": 89.43,
+          "median": 87.48,
           "max": 137.49,
           "n": 6
         },
         "d14": {
           "min": 86.99,
-          "median": 150.69,
+          "median": 150.99,
           "max": 177.49,
           "n": 6
         }
@@ -154,25 +154,25 @@
       "share_covered": 0.5,
       "distance_km_median": 1.3,
       "distance_km_min": 0.7,
-      "prices_collected": 5,
+      "prices_collected": 7,
       "prices": {
         "d3": {
           "min": 26.9,
-          "median": 39,
+          "median": 41,
           "max": 50,
-          "n": 5
+          "n": 7
         },
         "d7": {
           "min": 46.9,
-          "median": 59,
+          "median": 66,
           "max": 79,
-          "n": 5
+          "n": 7
         },
         "d14": {
           "min": 81.9,
-          "median": 107.5,
+          "median": 117.5,
           "max": 149,
-          "n": 4
+          "n": 5
         }
       }
     },
@@ -325,25 +325,25 @@
       "share_covered": 0.29,
       "distance_km_median": 2.9,
       "distance_km_min": 1.1,
-      "prices_collected": 7,
+      "prices_collected": 8,
       "prices": {
         "d3": {
           "min": 26,
-          "median": 33.5,
+          "median": 36,
           "max": 49,
-          "n": 6
+          "n": 7
         },
         "d7": {
           "min": 30,
-          "median": 60,
+          "median": 50,
           "max": 65,
-          "n": 7
+          "n": 8
         },
         "d14": {
           "min": 64,
           "median": 66,
           "max": 90,
-          "n": 4
+          "n": 5
         }
       }
     },
@@ -481,25 +481,25 @@
       "share_covered": 0.55,
       "distance_km_median": 2.5,
       "distance_km_min": 0.9,
-      "prices_collected": 3,
+      "prices_collected": 7,
       "prices": {
         "d3": {
           "min": 30,
-          "median": 58,
-          "max": 75,
-          "n": 3
+          "median": 64.49,
+          "max": 115,
+          "n": 7
         },
         "d7": {
           "min": 70,
-          "median": 105,
-          "max": 106,
-          "n": 3
+          "median": 108.1,
+          "max": 195,
+          "n": 7
         },
         "d14": {
           "min": 140,
-          "median": 175,
-          "max": 180,
-          "n": 3
+          "median": 180,
+          "max": 335,
+          "n": 7
         }
       }
     },
@@ -730,11 +730,26 @@
       "share_covered": 0.44,
       "distance_km_median": 3.4,
       "distance_km_min": 0.4,
-      "prices_collected": 0,
+      "prices_collected": 3,
       "prices": {
-        "d3": null,
-        "d7": null,
-        "d14": null
+        "d3": {
+          "min": 49,
+          "median": 49,
+          "max": 64,
+          "n": 3
+        },
+        "d7": {
+          "min": 49,
+          "median": 49,
+          "max": 79,
+          "n": 3
+        },
+        "d14": {
+          "min": 78,
+          "median": 78,
+          "max": 149,
+          "n": 3
+        }
       }
     },
     {
@@ -850,11 +865,26 @@
       "share_covered": 0.8,
       "distance_km_median": 3.8,
       "distance_km_min": 1.6,
-      "prices_collected": 1,
+      "prices_collected": 4,
       "prices": {
-        "d3": null,
-        "d7": null,
-        "d14": null
+        "d3": {
+          "min": 38,
+          "median": 63,
+          "max": 83,
+          "n": 4
+        },
+        "d7": {
+          "min": 54,
+          "median": 77.5,
+          "max": 90,
+          "n": 4
+        },
+        "d14": {
+          "min": 82,
+          "median": 117.5,
+          "max": 155,
+          "n": 4
+        }
       }
     },
     {
@@ -1032,7 +1062,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -1064,14 +1094,14 @@
       "website": "https://easyparkingmalaga.com/",
       "last_verified": "2026-09-02",
       "price": {
-        "d3": null,
-        "d7": null,
-        "d14": null,
-        "currency": null,
-        "source_url": null,
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "-"
+        "d3": 36,
+        "d7": 66,
+        "d14": 132.5,
+        "currency": "EUR",
+        "source_url": "https://lowcostparking.com/es/reservar/1",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:lowcostparking-com"
       }
     },
     {
@@ -1106,7 +1136,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.europarking.es/en/home/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -1143,8 +1173,8 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://parking.aena.es/reservas/web/disponibilidad.ac",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:aena"
       }
     },
@@ -1180,8 +1210,8 @@
         "d14": 72,
         "currency": "EUR",
         "source_url": "https://parking.aena.es/reservas/web/disponibilidad.ac",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:aena"
       }
     },
@@ -1217,7 +1247,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://lowcostparkingmalaga.com/tarifas/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -1254,7 +1284,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -1291,7 +1321,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -1328,7 +1358,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://parkandgomalaga.es/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -1365,7 +1395,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -1402,7 +1432,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.parkingairportpicasso.com/tarifas/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -1439,7 +1469,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "http://www.parkingbaez.es/parking-autocaravanas/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -1476,7 +1506,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.parkingcostagolf.com/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -1513,7 +1543,7 @@
         "d14": 65,
         "currency": "EUR",
         "source_url": "https://parkingpedrocar.es/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:row"
       }
@@ -1550,7 +1580,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -1587,7 +1617,7 @@
         "d14": 120,
         "currency": "EUR",
         "source_url": "https://parkingsolmediterraneo.com/tarifas-parking-aeropuerto-malaga-puerto-ave/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:row"
       }
@@ -1624,7 +1654,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.parkingmar.es/tarifas.html",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -1661,7 +1691,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -1698,7 +1728,7 @@
         "d14": 66.4,
         "currency": "EUR",
         "source_url": "https://www.spparking.es/en/parking_rates.php",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:row"
       }
@@ -2290,7 +2320,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -2327,8 +2357,8 @@
         "d14": 86.99,
         "currency": "EUR",
         "source_url": "https://airportindoorparking.myparking.pro/reservations/add?culture=en-GB",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:parkingpro"
       }
     },
@@ -2364,7 +2394,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -2401,7 +2431,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -2438,7 +2468,7 @@
         "d14": 153,
         "currency": "EUR",
         "source_url": "https://www.kingparking.nl/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -2475,8 +2505,8 @@
         "d14": 97.95,
         "currency": "EUR",
         "source_url": "https://move-on-parking.myparking.pro/reservations/add?hideHeader=true&hideTitle=true&culture=en-GB",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:parkingpro"
       }
     },
@@ -2512,7 +2542,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -2549,7 +2579,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -2586,7 +2616,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -2618,13 +2648,13 @@
       "website": "https://vakantieparking.nl",
       "last_verified": "2026-09-02",
       "price": {
-        "d3": 57.87,
-        "d7": 82.87,
-        "d14": 148.37,
+        "d3": 51.97,
+        "d7": 78.97,
+        "d14": 148.97,
         "currency": "EUR",
         "source_url": "https://vakantieparking.myparking.pro/reservations/add?hideHeader=true&hideTitle=true&culture=en-GB",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:parkingpro"
       }
     },
@@ -2660,8 +2690,8 @@
         "d14": 165.99,
         "currency": "EUR",
         "source_url": "https://xclusive-parking.myparking.pro/reservations/add?hideHeader=true&hideTitle=true&culture=en-GB",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:parkingpro"
       }
     },
@@ -2697,8 +2727,8 @@
         "d14": 177.49,
         "currency": "EUR",
         "source_url": "https://iparking.myparking.pro/reservations/add?hideHeader=&culture=en-GB",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:parkingpro"
       }
     },
@@ -4066,8 +4096,8 @@
         "d14": 81.9,
         "currency": "EUR",
         "source_url": "https://www.051park.it/prenotazione#/main/step1",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:eparkingweb"
       }
     },
@@ -4103,7 +4133,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -4140,7 +4170,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -4177,8 +4207,8 @@
         "d14": 149,
         "currency": "EUR",
         "source_url": "https://www.aeroportcar.it/prenotazione#/main/step1",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:eparkingweb"
       }
     },
@@ -4214,7 +4244,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -4251,7 +4281,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.ccparking.it/tariffe-parcheggio-aeroporto-bologna-low-cost-e-convenienti",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -4288,7 +4318,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -4325,8 +4355,8 @@
         "d14": 86,
         "currency": "EUR",
         "source_url": "https://coopark.it/prenotazione/#/main/step1",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:eparkingweb"
       }
     },
@@ -4362,7 +4392,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -4394,14 +4424,14 @@
       "website": "https://www.fastparking.it/it/parcheggio-aeroporto-bologna-low-cost",
       "last_verified": "2026-09-02",
       "price": {
-        "d3": null,
-        "d7": null,
+        "d3": 41,
+        "d7": 75,
         "d14": null,
         "currency": "EUR",
-        "source_url": "https://www.fastparking.it/it/parcheggio-aeroporto-bologna-low-cost",
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "-"
+        "source_url": "https://www.fastparking.it/it/risultati-ricerca",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:fastparking"
       }
     },
     {
@@ -4431,14 +4461,14 @@
       "website": "https://www.parkingo.com/en/go2-bologna-airport",
       "last_verified": "2026-09-02",
       "price": {
-        "d3": null,
-        "d7": null,
-        "d14": null,
+        "d3": 41,
+        "d7": 75,
+        "d14": 117.5,
         "currency": "EUR",
-        "source_url": "https://www.parkingo.com/en/go2-bologna-airport",
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "-"
+        "source_url": "https://www.parkingo.com/en/booking_price",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:parkingo"
       }
     },
     {
@@ -4473,7 +4503,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.bologna-airport.it/en/parking/park-up-and-set-off-on-your-journey/rates-and-conventions/p1-parking-terminal/?idC=62711",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -4510,7 +4540,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.bologna-airport.it/en/parking/park-up-and-set-off-on-your-journey/rates-and-conventions/p4-parking-long-stay/?idC=62321",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -4547,8 +4577,8 @@
         "d14": 129,
         "currency": "EUR",
         "source_url": "https://volopark.it/prenotazione.html#/main/step1",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:eparkingweb"
       }
     },
@@ -4584,7 +4614,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://alfredpark.fr/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -4621,7 +4651,7 @@
         "d14": 72.94,
         "currency": "EUR",
         "source_url": "https://www.aquitaine-park.com/tarifs",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -4658,7 +4688,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.autopark33.com/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -4695,7 +4725,7 @@
         "d14": 69,
         "currency": "EUR",
         "source_url": "https://www.flypark-bordeaux-merignac.com/tarifs",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:row"
       }
@@ -4732,8 +4762,8 @@
         "d14": 112,
         "currency": "EUR",
         "source_url": "https://reservation.greenvalet.fr/shop/cart",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:helloapp"
       }
     },
@@ -4769,7 +4799,7 @@
         "d14": 77,
         "currency": "EUR",
         "source_url": "https://okriba.fr/parking-aeroport-bordeaux-prix",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -4806,7 +4836,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.bordeaux.aeroport.fr/en/car-park/p0-comfort",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -4843,7 +4873,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.bordeaux.aeroport.fr/en/car-park/p4-long-stay",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -4880,7 +4910,7 @@
         "d14": 72.94,
         "currency": "EUR",
         "source_url": "https://solution-parking-bordeaux-merignac.fr/tarifs/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -5287,8 +5317,8 @@
         "d14": 94,
         "currency": "EUR",
         "source_url": "https://aeroparkingbrussels.com/en_GB/reservation/parking",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:helloapp"
       }
     },
@@ -5324,8 +5354,8 @@
         "d14": 65,
         "currency": "EUR",
         "source_url": "https://aeropark1000.com/en_GB/reservation/parking",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:helloapp"
       }
     },
@@ -5360,9 +5390,9 @@
         "d7": 39,
         "d14": 63,
         "currency": "EUR",
-        "source_url": "https://www.ciaopark.com/en/search?from=2026-11-09T10%3A00&to=2026-11-12T10%3A00",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "source_url": "https://www.ciaopark.com/en/search?from=2026-11-16T10%3A00&to=2026-11-19T10%3A00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:ciaopark"
       }
     },
@@ -5398,7 +5428,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.gopark.be/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -5472,7 +5502,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.p12parking.be/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -5509,7 +5539,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -5546,8 +5576,8 @@
         "d14": 98,
         "currency": "EUR",
         "source_url": "https://parkingcityzaventem.com/en_GB/reservation/parking",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:helloapp"
       }
     },
@@ -5583,8 +5613,8 @@
         "d14": 61.71,
         "currency": "EUR",
         "source_url": "https://park2fly.eu/reservation/parking",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:helloapp"
       }
     },
@@ -5620,7 +5650,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -5657,7 +5687,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.parklybelgium.com/tarifs",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -5694,8 +5724,8 @@
         "d14": 125,
         "currency": "EUR",
         "source_url": "https://proparkzaventem.myparking.pro/reservations/add?hideHeader=&hideTitle=&culture=en-GB",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:parkingpro"
       }
     },
@@ -5731,7 +5761,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -5768,8 +5798,8 @@
         "d14": 84,
         "currency": "EUR",
         "source_url": "https://sureflypark.com/en_GB/reservation/parking",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:helloapp"
       }
     },
@@ -5805,8 +5835,8 @@
         "d14": 89,
         "currency": "EUR",
         "source_url": "https://zekerpark.be/en_GB/reservation/parking",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:helloapp"
       }
     },
@@ -5842,7 +5872,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -7063,7 +7093,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -7100,7 +7130,7 @@
         "d14": 66,
         "currency": "EUR",
         "source_url": "https://www.aeropark.be/fr/tarifs",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -7132,14 +7162,14 @@
       "website": "https://charleroilowcost.be",
       "last_verified": "2026-09-01",
       "price": {
-        "d3": null,
-        "d7": null,
-        "d14": null,
+        "d3": 36,
+        "d7": 40,
+        "d14": 75,
         "currency": "EUR",
-        "source_url": "https://www.charleroilowcost.be/fr/tarifs",
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "-"
+        "source_url": "https://www.charleroilowcost.be/fr/reservation?date_start=2026-11-16&date_end=2026-11-19&time_start=10:00&time_end=10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:charleroilowcost"
       }
     },
     {
@@ -7174,7 +7204,7 @@
         "d14": 90,
         "currency": "EUR",
         "source_url": "https://www.dsparking.be/news/tarifs/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:row"
       }
@@ -7211,7 +7241,7 @@
         "d14": 64,
         "currency": "EUR",
         "source_url": "https://www.fastpark.be/fr/tarifs",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -7248,7 +7278,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://gataparking.be/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -7285,7 +7315,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -7322,7 +7352,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -7359,7 +7389,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.park-and-fly.be/fr/tarifs.php",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -7396,7 +7426,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://park-ami.be/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:row"
       }
@@ -7433,7 +7463,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.park-oli-aeroport-charleroi.com/tarifs",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -7470,7 +7500,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.parkingeric.be/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -7507,7 +7537,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.parkwall.be/fr/tarifs-parking-aeroport.php",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -7544,7 +7574,7 @@
         "d14": 66,
         "currency": "EUR",
         "source_url": "https://www.splicarparkfly.be/tarifs",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:row"
       }
@@ -8432,7 +8462,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -8469,7 +8499,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -8506,8 +8536,8 @@
         "d14": 104,
         "currency": "EUR",
         "source_url": "https://eazzypark.nl/eindhoven/reserveren/",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:ezpark"
       }
     },
@@ -8543,7 +8573,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.eindhovenairport.nl/en/p1-gold-parking",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -8580,8 +8610,8 @@
         "d14": 141.45,
         "currency": "EUR",
         "source_url": "https://euro-parking.nl/reserveren/",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:ezpark"
       }
     },
@@ -8616,9 +8646,9 @@
         "d7": 97,
         "d14": 171.5,
         "currency": "EUR",
-        "source_url": "https://parkenfly.com/en/parking/?start=09-11-2026+10%3A00&end=12-11-2026+10%3A00",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "source_url": "https://parkenfly.com/en/parking/?start=16-11-2026+10%3A00&end=19-11-2026+10%3A00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:parkingpro"
       }
     },
@@ -8654,8 +8684,8 @@
         "d14": 126.99,
         "currency": "EUR",
         "source_url": "https://park4you.myparking.pro/reservations/add?hideHeader=true&hideTitle=true&culture=en-GB",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:parkingpro"
       }
     },
@@ -8691,7 +8721,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -10021,11 +10051,11 @@
         "d3": null,
         "d7": null,
         "d14": null,
-        "currency": "CHF",
-        "source_url": "https://www.aeropark.ch/fr",
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "-"
+        "currency": null,
+        "source_url": null,
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:aeropark"
       }
     },
     {
@@ -10059,9 +10089,9 @@
         "d7": 70,
         "d14": 140,
         "currency": "CHF",
-        "source_url": "https://www.bibipark.com/reservation?arrival_date=09/11/2026&arrival_time=10:00&depart_date=12/11/2026&depart_time=10:00",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "source_url": "https://www.bibipark.com/reservation?arrival_date=16/11/2026&arrival_time=10:00&depart_date=19/11/2026&depart_time=10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:bibipark"
       }
     },
@@ -10092,14 +10122,14 @@
       "website": "https://bigpark.ch/en/",
       "last_verified": "2026-09-02",
       "price": {
-        "d3": null,
-        "d7": null,
-        "d14": null,
+        "d3": 62,
+        "d7": 116,
+        "d14": 210.5,
         "currency": "CHF",
-        "source_url": "https://bigpark.ch/en/",
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "-"
+        "source_url": "https://bigvaletpark.ch/quote?tenant=VALETPARK-geneve",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:bigpark"
       }
     },
     {
@@ -10134,7 +10164,7 @@
         "d14": 180,
         "currency": "CHF",
         "source_url": "https://www.civapark.com/en/parking-rates-geneva-airport",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:row"
       }
@@ -10166,14 +10196,14 @@
       "website": "https://www.easy-park.ch/services-parking-aeroport-geneve",
       "last_verified": "2026-09-02",
       "price": {
-        "d3": null,
-        "d7": null,
-        "d14": null,
+        "d3": 115,
+        "d7": 195,
+        "d14": 335,
         "currency": "CHF",
-        "source_url": "https://www.easy-park.ch/tarifs",
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "-"
+        "source_url": "https://www.easy-park.ch/booking",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:easy-park"
       }
     },
     {
@@ -10208,7 +10238,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -10245,7 +10275,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -10277,14 +10307,14 @@
       "website": "https://www.parkvalet.ch/",
       "last_verified": "2026-09-02",
       "price": {
-        "d3": null,
-        "d7": null,
-        "d14": null,
+        "d3": 90.8,
+        "d7": 108.1,
+        "d14": 167.55,
         "currency": "CHF",
         "source_url": "https://www.parkvalet.ch/",
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "-"
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:parkvalet"
       }
     },
     {
@@ -10319,7 +10349,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -10351,14 +10381,14 @@
       "website": "https://parking-genevois.fr/",
       "last_verified": "2026-09-03",
       "price": {
-        "d3": null,
-        "d7": null,
-        "d14": null,
+        "d3": 64.49,
+        "d7": 110.47,
+        "d14": 190.94,
         "currency": "EUR",
-        "source_url": "https://parking-genevois.fr/",
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "-"
+        "source_url": "https://parking-genevois.fr/#!/Spaces",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:pjcpb"
       }
     },
     {
@@ -10393,7 +10423,7 @@
         "d14": 175,
         "currency": "EUR",
         "source_url": "https://parkingaeroportgeneve.com/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -15610,7 +15640,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.easyairportparking.de/magazin/alles-zur-flugsteuer-zum-flugticketpreis",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -15647,7 +15677,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -15684,7 +15714,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -15716,14 +15746,14 @@
       "website": "https://park4fly.net",
       "last_verified": "2026-09-02",
       "price": {
-        "d3": null,
-        "d7": null,
-        "d14": null,
+        "d3": 49,
+        "d7": 49,
+        "d14": 78,
         "currency": "EUR",
-        "source_url": "https://park4fly.net/",
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "-"
+        "source_url": "https://park4fly.parkstar.de/form/",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:parkstar"
       }
     },
     {
@@ -15753,14 +15783,14 @@
       "website": "https://parkexpress24.de",
       "last_verified": "2026-09-02",
       "price": {
-        "d3": null,
-        "d7": null,
-        "d14": null,
+        "d3": 49,
+        "d7": 49,
+        "d14": 78,
         "currency": "EUR",
-        "source_url": "https://parkexpress24.de/",
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "-"
+        "source_url": "https://parkhero24.parkstar.de/form/",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:parkstar"
       }
     },
     {
@@ -15795,7 +15825,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.airport-nuernberg.de/de/parktarife",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -15832,7 +15862,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.airport-nuernberg.de/de/parktarife",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -15864,14 +15894,14 @@
       "website": "https://www.shuttleparkplatz.de",
       "last_verified": "2026-09-02",
       "price": {
-        "d3": null,
-        "d7": null,
-        "d14": null,
+        "d3": 64,
+        "d7": 79,
+        "d14": 149,
         "currency": "EUR",
-        "source_url": "https://www.shuttleparkplatz.de/parken-flughafen-nuernberg/",
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "html_text:zip"
+        "source_url": "https://shuttleparkplatz.parkstar.de/form/",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:parkstar"
       }
     },
     {
@@ -15906,7 +15936,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -15943,7 +15973,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -15980,7 +16010,7 @@
         "d14": 91,
         "currency": "EUR",
         "source_url": "https://www.coverpark.fr/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -16017,7 +16047,7 @@
         "d14": 125,
         "currency": "EUR",
         "source_url": "https://www.levaletrouge.fr/tarifs",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:row"
       }
@@ -16054,7 +16084,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -16091,7 +16121,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.orly-voiturier.com/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -16128,7 +16158,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.parcorly.fr/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:row"
       }
@@ -16165,8 +16195,8 @@
         "d14": 82,
         "currency": "EUR",
         "source_url": "https://provaletpark.fr/reservation/parking",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:helloapp"
       }
     },
@@ -16202,8 +16232,8 @@
         "d14": 118,
         "currency": "EUR",
         "source_url": "https://tygroopark.hello-parking.com/reservation/parking",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:helloapp"
       }
     },
@@ -16239,7 +16269,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -16276,8 +16306,8 @@
         "d14": 105,
         "currency": "EUR",
         "source_url": "https://yassopark.fr/reservation/parking",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:helloapp"
       }
     },
@@ -16313,7 +16343,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://airport-parking-mallorca.com/en/daily-rates/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -16350,7 +16380,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -16387,8 +16417,8 @@
         "d14": 93,
         "currency": "EUR",
         "source_url": "https://parking.aena.es/reservas/web/disponibilidad.ac",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:aena"
       }
     },
@@ -16424,8 +16454,8 @@
         "d14": 46,
         "currency": "EUR",
         "source_url": "https://parking.aena.es/reservas/web/disponibilidad.ac",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:aena"
       }
     },
@@ -16461,8 +16491,8 @@
         "d14": 71.95,
         "currency": "EUR",
         "source_url": "https://www.lowcostparking.es/mallorca/elegir-servicios.php?idioma=es",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:lowcostparking-pmi"
       }
     },
@@ -16497,9 +16527,9 @@
         "d7": 40.9,
         "d14": 75.17,
         "currency": "EUR",
-        "source_url": "https://www.parkfly.info/en/complete-parking-reservation/?entry_date=09-11-2026&entry_time=10:00&exit_date=12-11-2026&exit_time=10:00&location_id=&widget_submit=1",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "source_url": "https://www.parkfly.info/en/complete-parking-reservation/?entry_date=16-11-2026&entry_time=10:00&exit_date=19-11-2026&exit_time=10:00&location_id=&widget_submit=1",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:cpbs"
       }
     },
@@ -16535,7 +16565,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -16572,7 +16602,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -17238,7 +17268,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://airport-parking-stuttgart.de/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -17275,7 +17305,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.easyparking-stuttgart.de/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -17312,7 +17342,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.flughafenparker-stuttgart.de/?v=2",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -17349,7 +17379,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.flughafenparkservice-stuttgart.de/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -17386,7 +17416,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://flyparks-stuttgart.de/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -17423,7 +17453,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -17460,7 +17490,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -17497,7 +17527,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -17534,7 +17564,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.parken-am-flughafen-stuttgart.de/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -17571,7 +17601,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://parken.flughafen-stuttgart.de/de/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -17607,9 +17637,9 @@
         "d7": 83,
         "d14": 155,
         "currency": "EUR",
-        "source_url": "https://parken.flughafen-stuttgart.de/en/search/searchbydate?EntryDate=2026-11-09T10%3A00%3A00&Exitdate=2026-11-12T10%3A00%3A00",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "source_url": "https://parken.flughafen-stuttgart.de/en/search/searchbydate?EntryDate=2026-11-16T10%3A00%3A00&Exitdate=2026-11-19T10%3A00%3A00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:apcoa-str"
       }
     },
@@ -17640,14 +17670,14 @@
       "website": "https://www.parkservice-loewe.de",
       "last_verified": "2026-09-02",
       "price": {
-        "d3": null,
-        "d7": null,
-        "d14": null,
+        "d3": 38,
+        "d7": 54,
+        "d14": 82,
         "currency": "EUR",
-        "source_url": "https://www.parkservice-loewe.de/",
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "-"
+        "source_url": "https://loewe.parkstar.de/form/",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:parkstar"
       }
     },
     {
@@ -17677,14 +17707,14 @@
       "website": "https://www.parkservice-raslan.de",
       "last_verified": "2026-09-02",
       "price": {
-        "d3": null,
-        "d7": null,
-        "d14": null,
+        "d3": 51,
+        "d7": 72,
+        "d14": 95,
         "currency": "EUR",
-        "source_url": "https://www.parkservice-raslan.de/preise",
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "-"
+        "source_url": "https://raslan.parkstar.de/form/",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:parkstar"
       }
     },
     {
@@ -17714,14 +17744,14 @@
       "website": "https://www.stuttgart-flughafen-parkplatz.de",
       "last_verified": "2026-09-02",
       "price": {
-        "d3": null,
-        "d7": null,
-        "d14": null,
+        "d3": 75,
+        "d7": 90,
+        "d14": 140,
         "currency": "EUR",
-        "source_url": "https://www.stuttgart-flughafen-parkplatz.de/",
-        "checked_at": "2026-10-11",
-        "stay_start": null,
-        "method": "-"
+        "source_url": "https://stuttgart-flughafen-parkplatz.parkstar.de/form/",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
+        "method": "quote:site:parkstar"
       }
     },
     {
@@ -17756,7 +17786,7 @@
         "d14": null,
         "currency": "EUR",
         "source_url": "https://www.valet-parking-stuttgart.com/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -19902,7 +19932,7 @@
         "d14": null,
         "currency": "CHF",
         "source_url": "https://autobahnhof.ch/parken/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -19939,7 +19969,7 @@
         "d14": null,
         "currency": null,
         "source_url": null,
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -19976,7 +20006,7 @@
         "d14": null,
         "currency": "CHF",
         "source_url": "https://www.flughafen-zuerich.ch/en/passengers/practical/parking-and-transport/parking-for-passengers",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -20013,7 +20043,7 @@
         "d14": 180,
         "currency": "CHF",
         "source_url": "https://www.mr-parking.ch/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:zip"
       }
@@ -20050,7 +20080,7 @@
         "d14": null,
         "currency": "CHF",
         "source_url": "https://p4rk.com/",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -20087,7 +20117,7 @@
         "d14": null,
         "currency": "CHF",
         "source_url": "https://parkflyzuerich.ch/preise.html",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "html_text:row"
       }
@@ -20124,8 +20154,8 @@
         "d14": 245,
         "currency": "CHF",
         "source_url": "https://park2fly.ch/",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:cpbs"
       }
     },
@@ -20161,8 +20191,8 @@
         "d14": 245,
         "currency": "CHF",
         "source_url": "https://parkexpress.ch/",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:cpbs"
       }
     },
@@ -20198,7 +20228,7 @@
         "d14": null,
         "currency": "CHF",
         "source_url": "https://www.parking-airport-zuerich.ch/preise",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -20235,7 +20265,7 @@
         "d14": null,
         "currency": "CHF",
         "source_url": "https://www.valetparking.ch/de.html",
-        "checked_at": "2026-10-11",
+        "checked_at": "2026-10-12",
         "stay_start": null,
         "method": "-"
       }
@@ -20272,8 +20302,8 @@
         "d14": 268,
         "currency": "CHF",
         "source_url": "https://valetwalter.ch/",
-        "checked_at": "2026-10-11",
-        "stay_start": "2026-11-09T10:00",
+        "checked_at": "2026-10-12",
+        "stay_start": "2026-11-16T10:00",
         "method": "quote:site:cpbs"
       }
     }
