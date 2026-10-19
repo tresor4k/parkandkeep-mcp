@@ -155,7 +155,7 @@ function notFound(query: string, candidates: Airport[]) {
 const airportHead = (a: Airport) => ({ iata: a.iata, name: a.city, country: a.country });
 
 export function createServer(): McpServer {
-  const server = new McpServer({ name: "parkandkeep-mcp", version: "0.1.0" }, { instructions: INSTRUCTIONS });
+  const server = new McpServer({ name: "parkandkeep-mcp", version: "0.2.0" }, { instructions: INSTRUCTIONS });
 
   server.registerTool(
     "airport_parking_options",

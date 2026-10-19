@@ -1,23 +1,41 @@
 {
   "name": "parkandkeep-mcp",
-  "version": "0.1.0",
-  "private": true,
-  "description": "Remote MCP server of the Park & Keep airport parking index: car parks serving European airports, their services and airport-level price aggregates for 3, 7 and 14-day stays.",
+  "version": "0.2.0",
+  "description": "MCP server (local stdio or remote) of the Park & Keep airport parking index: car parks serving European airports, their services and airport-level price aggregates for 3, 7 and 14-day stays.",
   "type": "module",
   "license": "MIT",
-  "author": "Park & Keep",
+  "author": "Park & Keep (https://parkandkeep.com)",
   "homepage": "https://parkandkeep.com/en/data/airport-parking-index",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tresor4k/parkandkeep-mcp.git"
   },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "airport-parking",
+    "parking",
+    "travel",
+    "open-data"
+  ],
+  "bin": {
+    "parkandkeep-mcp": "dist/stdio.js"
+  },
+  "files": [
+    "dist/*.js",
+    "dist/data",
+    "README.md",
+    "LICENSE",
+    "server.json"
+  ],
   "engines": {
     "node": ">=18"
   },
   "scripts": {
     "build": "tsc -p tsconfig.json && node -e \"require('node:fs').cpSync('src/data','dist/data',{recursive:true})\"",
     "start": "node dist/http.js",
-    "test": "npm run build && node test/http-smoke.mjs"
+    "test": "npm run build && node test/http-smoke.mjs && node test/stdio-smoke.mjs",
+    "prepublishOnly": "npm test"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.27.1",

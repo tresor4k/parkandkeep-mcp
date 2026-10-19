@@ -7,12 +7,22 @@
     "url": "https://github.com/tresor4k/parkandkeep-mcp",
     "source": "github"
   },
-  "version": "0.1.0",
+  "version": "0.2.0",
   "websiteUrl": "https://parkandkeep.com/en/data/airport-parking-index",
   "remotes": [
     {
       "type": "streamable-http",
       "url": "https://parkandkeep-mcp.vercel.app/mcp"
+    }
+  ],
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "parkandkeep-mcp",
+      "version": "0.2.0",
+      "transport": {
+        "type": "stdio"
+      }
     }
   ]
 }

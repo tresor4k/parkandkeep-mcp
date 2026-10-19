@@ -1,10 +1,35 @@
-# Park & Keep MCP server (remote)
+# Park & Keep MCP server
 
-Remote MCP server (Streamable HTTP, stateless, read-only, no account) answering questions about the
+MCP server (local stdio or remote Streamable HTTP, stateless, read-only, no account) answering questions about the
 [Park & Keep airport parking index](https://parkandkeep.com/en/data/airport-parking-index): car parks serving European
 airports, their services and airport-level price ranges for 3, 7 and 14-day stays.
 
 Endpoint once deployed: `https://parkandkeep-mcp.vercel.app/mcp` (registry name `io.github.tresor4k/parkandkeep-mcp`).
+
+## Local (stdio)
+
+```sh
+npx -y parkandkeep-mcp
+```
+
+Claude Desktop (`claude_desktop_config.json`):
+
+```json
+{
+  "mcpServers": {
+    "parkandkeep": {
+      "command": "npx",
+      "args": ["-y", "parkandkeep-mcp"]
+    }
+  }
+}
+```
+
+The stdio server registers the same tools as the remote endpoint and reads the index bundled in the package.
+
+## Remote
+
+Streamable HTTP endpoint: `https://parkandkeep-mcp.vercel.app/mcp`.
 
 | Tool | Returns |
 |---|---|
@@ -17,7 +42,7 @@ Each tool takes `airport` = IATA code or airport name. The only outbound link is
 
 ```sh
 npm install
-npm test            # build + local HTTP smoke test (tools/list and every tool on 3 airports)
+npm test            # build + local HTTP smoke test (tools/list and every tool on 3 airports) + stdio smoke test
 npm start           # http://127.0.0.1:8787/mcp
 ```
 
