@@ -22,19 +22,22 @@
           "min": 31,
           "median": 36.5,
           "max": 59,
-          "n": 6
+          "n": 6,
+          "currency": "EUR"
         },
         "d7": {
           "min": 40.5,
           "median": 64.5,
           "max": 89,
-          "n": 6
+          "n": 6,
+          "currency": "EUR"
         },
         "d14": {
           "min": 65,
           "median": 72,
           "max": 132.5,
-          "n": 5
+          "n": 5,
+          "currency": "EUR"
         }
       }
     },
@@ -73,19 +76,22 @@
           "min": 42.95,
           "median": 54.48,
           "max": 112.49,
-          "n": 6
+          "n": 6,
+          "currency": "EUR"
         },
         "d7": {
           "min": 51.99,
           "median": 87.48,
           "max": 137.49,
-          "n": 6
+          "n": 6,
+          "currency": "EUR"
         },
         "d14": {
           "min": 86.99,
           "median": 150.99,
           "max": 177.49,
-          "n": 6
+          "n": 6,
+          "currency": "EUR"
         }
       }
     },
@@ -160,19 +166,22 @@
           "min": 26.9,
           "median": 41,
           "max": 50,
-          "n": 7
+          "n": 7,
+          "currency": "EUR"
         },
         "d7": {
           "min": 46.9,
           "median": 66,
           "max": 79,
-          "n": 7
+          "n": 7,
+          "currency": "EUR"
         },
         "d14": {
           "min": 81.9,
           "median": 117.5,
           "max": 149,
-          "n": 5
+          "n": 5,
+          "currency": "EUR"
         }
       }
     },
@@ -193,19 +202,22 @@
           "min": 27,
           "median": 28,
           "max": 62,
-          "n": 4
+          "n": 4,
+          "currency": "EUR"
         },
         "d7": {
           "min": 42,
           "median": 45.5,
           "max": 82,
-          "n": 6
+          "n": 6,
+          "currency": "EUR"
         },
         "d14": {
           "min": 69,
           "median": 72.94,
           "max": 112,
-          "n": 5
+          "n": 5,
+          "currency": "EUR"
         }
       }
     },
@@ -244,19 +256,22 @@
           "min": 22.46,
           "median": 33,
           "max": 43,
-          "n": 9
+          "n": 9,
+          "currency": "EUR"
         },
         "d7": {
           "min": 32.91,
           "median": 46,
           "max": 75,
-          "n": 9
+          "n": 9,
+          "currency": "EUR"
         },
         "d14": {
           "min": 61.71,
           "median": 87,
           "max": 125,
-          "n": 9
+          "n": 9,
+          "currency": "EUR"
         }
       }
     },
@@ -331,19 +346,22 @@
           "min": 26,
           "median": 36,
           "max": 49,
-          "n": 7
+          "n": 7,
+          "currency": "EUR"
         },
         "d7": {
           "min": 30,
           "median": 50,
           "max": 65,
-          "n": 8
+          "n": 8,
+          "currency": "EUR"
         },
         "d14": {
           "min": 64,
           "median": 66,
           "max": 90,
-          "n": 5
+          "n": 5,
+          "currency": "EUR"
         }
       }
     },
@@ -400,19 +418,22 @@
           "min": 59.99,
           "median": 74.75,
           "max": 89.95,
-          "n": 4
+          "n": 4,
+          "currency": "EUR"
         },
         "d7": {
           "min": 73,
           "median": 95.75,
           "max": 109.95,
-          "n": 4
+          "n": 4,
+          "currency": "EUR"
         },
         "d14": {
           "min": 104,
           "median": 134.22,
           "max": 171.5,
-          "n": 4
+          "n": 4,
+          "currency": "EUR"
         }
       }
     },
@@ -485,21 +506,24 @@
       "prices": {
         "d3": {
           "min": 30,
-          "median": 64.49,
+          "median": 62,
           "max": 115,
-          "n": 7
+          "n": 5,
+          "currency": "CHF"
         },
         "d7": {
           "min": 70,
           "median": 108.1,
           "max": 195,
-          "n": 7
+          "n": 5,
+          "currency": "CHF"
         },
         "d14": {
           "min": 140,
           "median": 180,
           "max": 335,
-          "n": 7
+          "n": 5,
+          "currency": "CHF"
         }
       }
     },
@@ -736,19 +760,22 @@
           "min": 49,
           "median": 49,
           "max": 64,
-          "n": 3
+          "n": 3,
+          "currency": "EUR"
         },
         "d7": {
           "min": 49,
           "median": 49,
           "max": 79,
-          "n": 3
+          "n": 3,
+          "currency": "EUR"
         },
         "d14": {
           "min": 78,
           "median": 78,
           "max": 149,
-          "n": 3
+          "n": 3,
+          "currency": "EUR"
         }
       }
     },
@@ -769,19 +796,22 @@
           "min": 34,
           "median": 51,
           "max": 70,
-          "n": 4
+          "n": 4,
+          "currency": "EUR"
         },
         "d7": {
           "min": 51,
           "median": 69,
           "max": 90,
-          "n": 5
+          "n": 5,
+          "currency": "EUR"
         },
         "d14": {
           "min": 82,
           "median": 105,
           "max": 125,
-          "n": 5
+          "n": 5,
+          "currency": "EUR"
         }
       }
     },
@@ -802,19 +832,22 @@
           "min": 22,
           "median": 25.95,
           "max": 31,
-          "n": 5
+          "n": 5,
+          "currency": "EUR"
         },
         "d7": {
           "min": 34,
           "median": 40.45,
           "max": 56,
-          "n": 5
+          "n": 5,
+          "currency": "EUR"
         },
         "d14": {
           "min": 46,
           "median": 73.56,
           "max": 93,
-          "n": 4
+          "n": 4,
+          "currency": "EUR"
         }
       }
     },
@@ -871,19 +904,22 @@
           "min": 38,
           "median": 63,
           "max": 83,
-          "n": 4
+          "n": 4,
+          "currency": "EUR"
         },
         "d7": {
           "min": 54,
           "median": 77.5,
           "max": 90,
-          "n": 4
+          "n": 4,
+          "currency": "EUR"
         },
         "d14": {
           "min": 82,
           "median": 117.5,
           "max": 155,
-          "n": 4
+          "n": 4,
+          "currency": "EUR"
         }
       }
     },
@@ -1012,19 +1048,22 @@
           "min": 80,
           "median": 100,
           "max": 109,
-          "n": 5
+          "n": 5,
+          "currency": "CHF"
         },
         "d7": {
           "min": 120,
           "median": 156,
           "max": 159,
-          "n": 5
+          "n": 5,
+          "currency": "CHF"
         },
         "d14": {
           "min": 180,
           "median": 245,
           "max": 268,
-          "n": 4
+          "n": 4,
+          "currency": "CHF"
         }
       }
     }
